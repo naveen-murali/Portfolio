@@ -52,7 +52,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Deploma Student on Electronics", "Self Taught Developer"],
+        strings: ["Diploma Student on Electronics", "Self Taught Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
